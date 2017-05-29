@@ -1,0 +1,17 @@
+.container {
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.hello-world {
+  color: blue
+}
+
+nav {
+    width:150px;
+    display: flex;
+    justify-content: space-between
+}
